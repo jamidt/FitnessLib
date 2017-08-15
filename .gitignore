@@ -1,0 +1,21 @@
+# object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# dynamic libraries
+*.dll
+*.dylib
+*.so
+
+# static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# executables
+*.app
+*.exe
+*.out
